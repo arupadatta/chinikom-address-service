@@ -1,6 +1,6 @@
 spring:
   application:
-    name: udemy-rsmortgage-customer-account-service
+    name: chinikom-address-service
   profiles:
     active:
       mysql
