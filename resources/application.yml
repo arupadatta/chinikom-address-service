@@ -39,9 +39,9 @@ management:
 
 #default project info followed by actual injected pom-specified values.
 project:
-  name: udemy-rsmortgage-customer-account-service
-  version: 0.1
-  description: udemy-rsmortgage-customer-account-service
+  name: chinikom-address-service
+  version: 0.0.1-SNAPSHOT
+  description: chinikom-address-service
 info:
   build:
     artifact: ${project.artifactId}
